@@ -9,16 +9,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 
 
-  <style>
 
-    .border {
-      border: 1px solid red;
-    }
-
-    .border-block {
-      border-block: dashed red;
-    }
-  </style>
 
 </head>
 <body>
@@ -27,7 +18,10 @@
     window.$docsify = {
       name: '',
       repo: '',
-      loadSidebar: true
+      loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      }
     }
   </script>
   <!-- Docsify v4 -->
