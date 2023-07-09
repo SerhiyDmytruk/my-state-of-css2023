@@ -7,13 +7,14 @@
 
 You can try out the CSS anchor positioning API in Chrome Canary behind the "Experimental Web Platform Features" flag. To enable that flag, open Chrome Canary and visit chrome://flags. Then enable the "Experimental web platform features" flag.
 
-There is also a polyfill in development by the team at Oddbird. Be sure to check the repo at github.com/oddbird/css-anchor-positioning.
+There is also a polyfill in development by the team at Oddbird. Be sure to check the (repo)[github.com/oddbird/css-anchor-positioning].
 
 You can check for anchoring support with:
-
+```
 @supports(anchor-name: --foo) {
   /* Styles... */
 }
+```
 Note that this API is still in an experimental stage and could change. This article covers the important parts at a high level. The current implementation also isn't completely in sync with the CSS Working Group spec.
 
 #### The main idea
@@ -48,4 +49,17 @@ To solve for this, the anchor positioning API includes fallback positions that y
 }
 ```
 
+
+## Result of implementation
+
 https://storage.googleapis.com/web-dev-uploads/video/Dyx9FwYgMyNqy1kMGx8Orz6q0qC3/X79WdPJ5bZDXhJ3Fw7Ti.mp4
+
+
+### Constituent properties
+
+* `anchor`
+* `anchor-default`
+* `anchor-name`
+* `anchor-size`
+* `position-fallback`
+* `anchor-scroll`
