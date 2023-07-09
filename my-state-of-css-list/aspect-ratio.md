@@ -47,77 +47,74 @@
 
 <ul>
   <li>
-      <img class="aspect-ratio-auto" src="https://interactive-examples.mdn.mozilla.net/media/examples/plumeria.jpg" alt="flower"/>
+      <img class="aspect-ratio-auto" src="../img/plumeria.jpg" alt="flower"/>
   </li>
   <li>
-      <img class="aspect-ratio-1-1" src="https://interactive-examples.mdn.mozilla.net/media/examples/plumeria.jpg" alt="flower"/>
+      <img class="aspect-ratio-1-1" src="../img/plumeria.jpg" alt="flower"/>
   </li>
   <li>
-      <img class="aspect-ratio-16-9" src="https://interactive-examples.mdn.mozilla.net/media/examples/plumeria.jpg" alt="flower"/>
+      <img class="aspect-ratio-16-9" src="../img/plumeria.jpg" alt="flower"/>
   </li>
   <li>
-      <img class="aspect-ratio-0-5" src="https://interactive-examples.mdn.mozilla.net/media/examples/plumeria.jpg" alt="flower"/>
+      <img class="aspect-ratio-0-5" src="../img/plumeria.jpg" alt="flower"/>
   </li>
 </ul>
 ```
 
 ## Result of implementation 
 
-<pre>
-  <code>
-    <style>
-      .output {
-        padding: 0!important;
-        margin: 0;
-      }
 
-      .output li {
-        float: left;
-        display: flex;
-        justify-content: center;
-        width: 300px;
-        height: 300px;
-        overflow: hidden;
-        text-align: center;
-      }
+  <style>
+    .output {
+      padding: 0!important;
+      margin: 0;
+    }
 
-      img {
-        max-width: initial!important;
-        height: 100%;
-        width: auto;
-        flex-grow: 0;
-      }
+    .output li {
+      float: left;
+      display: flex;
+      justify-content: center;
+      width: 300px;
+      height: 300px;
+      overflow: hidden;
+      text-align: center;
+    }
 
-      .aspect-ratio-auto {
-        aspect-ratio: auto;
-      }
+    img {
+      max-width: initial!important;
+      height: 100%;
+      width: auto;
+      flex-grow: 0;
+    }
 
-      .aspect-ratio-1-1 {
-        aspect-ratio: 1 / 1;
-      }
+    .aspect-ratio-auto {
+      aspect-ratio: auto;
+    }
 
-      .aspect-ratio-16-9 {
-        aspect-ratio: 16 / 9;
-      }
+    .aspect-ratio-1-1 {
+      aspect-ratio: 1 / 1;
+    }
 
-      .aspect-ratio-0-5 {
-        aspect-ratio: 0.5;
-      }
-    </style>
+    .aspect-ratio-16-9 {
+      aspect-ratio: 16 / 9;
+    }
 
-  <ul class="output">
-    <li>
-        <img class="aspect-ratio-auto" src="https://interactive-examples.mdn.mozilla.net/media/examples/plumeria.jpg" alt="flower"/>
-    </li>
-    <li>
-        <img class="aspect-ratio-1-1" src="https://interactive-examples.mdn.mozilla.net/media/examples/plumeria.jpg" alt="flower"/>
-    </li>
-    <li>
-        <img class="aspect-ratio-16-9" src="https://interactive-examples.mdn.mozilla.net/media/examples/plumeria.jpg" alt="flower"/>
-    </li>
-    <li>
-        <img class="aspect-ratio-0-5" src="https://interactive-examples.mdn.mozilla.net/media/examples/plumeria.jpg" alt="flower"/>
-    </li>
-  </ul>
-  </code>
-</pre>
+    .aspect-ratio-0-5 {
+      aspect-ratio: 0.5;
+    }
+  </style>
+
+<ul class="output">
+  <li>
+      <img class="aspect-ratio-auto" src="../img/plumeria.jpg" alt="flower"/>
+  </li>
+  <li>
+      <img class="aspect-ratio-1-1" src="../img/plumeria.jpg" alt="flower"/>
+  </li>
+  <li>
+      <img class="aspect-ratio-16-9" src="../img/plumeria.jpg" alt="flower"/>
+  </li>
+  <li>
+      <img class="aspect-ratio-0-5" src="../img/plumeria.jpg" alt="flower"/>
+  </li>
+</ul>

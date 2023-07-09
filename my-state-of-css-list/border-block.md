@@ -25,24 +25,21 @@
 ```
 
 ## Result of implementation 
-<pre>
-  <code>
-      <style>
-        .border {
-          border: 1px solid tomato;
-        }
+  <style>
+    .border {
+      border: 1px solid tomato;
+    }
 
-        .border-block {
-          border-block: medium dashed tomato;
-        }
-      </style>
-      <div class="border">
-          border
-      </div>
+    .border-block {
+      border-block: medium dashed tomato;
+    }
+  </style>
+  
+  <div class="border">
+      border
+  </div>
 
-        <div class="border-block">
-          border-block
-      </div>
-  </code>
-</pre>
+    <div class="border-block">
+      border-block
+  </div>
 
