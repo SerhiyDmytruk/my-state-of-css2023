@@ -47,16 +47,16 @@
 
 <ul>
   <li>
-      <img class="aspect-ratio-auto" src="../img/plumeria.jpg" alt="flower"/>
+      <img class="aspect-ratio-auto" src="./img/plumeria.jpg" alt="flower"/>
   </li>
   <li>
-      <img class="aspect-ratio-1-1" src="../img/plumeria.jpg" alt="flower"/>
+      <img class="aspect-ratio-1-1" src="./img/plumeria.jpg" alt="flower"/>
   </li>
   <li>
-      <img class="aspect-ratio-16-9" src="../img/plumeria.jpg" alt="flower"/>
+      <img class="aspect-ratio-16-9" src="./img/plumeria.jpg" alt="flower"/>
   </li>
   <li>
-      <img class="aspect-ratio-0-5" src="../img/plumeria.jpg" alt="flower"/>
+      <img class="aspect-ratio-0-5" src="./img/plumeria.jpg" alt="flower"/>
   </li>
 </ul>
 ```
