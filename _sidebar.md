@@ -5,4 +5,6 @@
   - [Subgrid](my-state-of-css-list/subgrid.md)
   - [Writing mode](my-state-of-css-list/writing-mode.md)
   - [Aspect Ratio](my-state-of-css-list/aspect-ratio.md)
+  - [Content Visibility](my-state-of-css-list/content-visibility.md)
+  - [Flex Gap](my-state-of-css-list/flex-gap.md)
 

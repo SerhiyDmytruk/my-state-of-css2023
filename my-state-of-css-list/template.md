@@ -1,4 +1,4 @@
-## Name of new CSS feature
+## [Name of new CSS feature](link)
 
 > explanation
 
@@ -7,10 +7,7 @@
 ```
 
 ```
-<pre>
-  <code>
-      
-  </code>
-</pre>
-
 ## Result of implementation 
+
+
+### Constituent properties
