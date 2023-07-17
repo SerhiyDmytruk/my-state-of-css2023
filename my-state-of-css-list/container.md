@@ -2,6 +2,7 @@
 
 > The @container CSS at-rule is a conditional group rule that applies styles to a containment context. Style declarations are filtered by a condition and applied to the container if the condition is true. The condition is evaluated when the container changes size.
 
+[Future CSS: State Container Queries](Future CSS: State Container Queries)
 
 ### Logical keywords in container queries
 > ogical keywords can be used to define the container condition:

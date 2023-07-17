@@ -1,6 +1,6 @@
 ## aspect-ratio
 
-> The aspect-ratio CSS property sets a preferred aspect ratio for the box, which will be used in the calculation of auto sizes and some other layout functions.
+> The `aspect-ratio` CSS property sets a preferred aspect ratio for the box, which will be used in the calculation of auto sizes and some other layout functions.
 
 ### Code example
 

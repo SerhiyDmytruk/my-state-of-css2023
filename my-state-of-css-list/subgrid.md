@@ -1,5 +1,7 @@
 ## [Subgrid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Subgrid)
 
+[Learn CSS Subgrid](https://ishadeed.com/article/learn-css-subgrid/) Good explanation
+
 > Level 2 of the CSS Grid Layout specification includes a subgrid value for `grid-template-columns` and `grid-template-rows`. This guide details what subgrid does, and gives some use cases and design patterns that are solved by the feature.
 
 ### Code example
