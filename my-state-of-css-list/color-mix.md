@@ -15,27 +15,27 @@ color-mix(in hsl longer hue, hsl(120 100% 50%) 20%, white);
 ```
 ## Result of implementation 
 <style>
-li:nth-child(1) {
+.color-mix li:nth-child(1) {
   background-color: color-mix(in srgb, #34c9eb 0%, white);
 }
 
-li:nth-child(2) {
+.color-mix li:nth-child(2) {
   background-color: color-mix(in srgb, #34c9eb 25%, white);
 }
 
-li:nth-child(3) {
+.color-mix li:nth-child(3) {
   background-color: color-mix(in srgb, #34c9eb 50%, white);
 }
 
-li:nth-child(4) {
+.color-mix li:nth-child(4) {
   background-color: color-mix(in srgb, #34c9eb 75%, white);
 }
 
-li:nth-child(5) {
+.color-mix li:nth-child(5) {
   background-color: color-mix(in srgb, #34c9eb 100%, white);
 }
 
-li:nth-child(6) {
+.color-mix li:nth-child(6) {
   background-color: color-mix(in srgb, #34c9eb, white);
 }
 
@@ -64,7 +64,7 @@ li:nth-child(6) {
 
 </style>
 
-<ul>
+<ul class="color-mix">
   <li>0%</li>
   <li>25%</li>
   <li>50%</li>
