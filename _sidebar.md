@@ -13,7 +13,8 @@
   - [Backdrop Filter](my-state-of-css-list/backdrop-filter.md)
   - [Easing Function](my-state-of-css-list/easing-function.md)
 
-  Related #1
+
+- Related #1
   - [Container](my-state-of-css-list/container.md)
   - [CSS containment](my-state-of-css-list/css-containment.md)
   - [Content Visibility](my-state-of-css-list/content-visibility.md)
@@ -21,3 +22,7 @@
 
   - [Intrinsic Size](my-state-of-css-list/intrinsic-size.md)
   - [Contain Intrinsic Size](my-state-of-css-list/contain-intrinsic-size.md)
+
+- Related #2
+  - [Counter Increment](my-state-of-css-list/counter-increment.md)
+  - [Counter Set](my-state-of-css-list/counter-set.md)
