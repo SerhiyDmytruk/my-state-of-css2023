@@ -1,5 +1,7 @@
 ## [counter-set](https://developer.mozilla.org/en-US/docs/Web/CSS/counter-set)
 
+[counter-set](https://css-tricks.com/almanac/properties/c/counter-set/)
+
 > The `counter-set` CSS property sets a CSS counter to a given value. It manipulates the value of existing counters, and will only create new counters if there isn't already a counter of the given name on the element.
 
 ### Code example

@@ -1,6 +1,5 @@
 - List of my CSS knowledge gap 2023
 
-  General
   - [Anchor positioning](my-state-of-css-list/anchor-positioning.md)
   - [Border block](my-state-of-css-list/border-block.md)
   - [Subgrid](my-state-of-css-list/subgrid.md)
@@ -12,9 +11,10 @@
   - [Mix Blend Mode](my-state-of-css-list/mix-blend-mode.md)
   - [Backdrop Filter](my-state-of-css-list/backdrop-filter.md)
   - [Easing Function](my-state-of-css-list/easing-function.md)
+  - [Conic Gradient](my-state-of-css-list/conic-gradient.md)
 
 
-- Related #1
+- Related properties #1
   - [Container](my-state-of-css-list/container.md)
   - [CSS containment](my-state-of-css-list/css-containment.md)
   - [Content Visibility](my-state-of-css-list/content-visibility.md)
@@ -23,6 +23,6 @@
   - [Intrinsic Size](my-state-of-css-list/intrinsic-size.md)
   - [Contain Intrinsic Size](my-state-of-css-list/contain-intrinsic-size.md)
 
-- Related #2
+- Related properties #2
   - [Counter Increment](my-state-of-css-list/counter-increment.md)
   - [Counter Set](my-state-of-css-list/counter-set.md)
