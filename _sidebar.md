@@ -12,9 +12,8 @@
   - [Backdrop Filter](my-state-of-css-list/backdrop-filter.md)
   - [Easing Function](my-state-of-css-list/easing-function.md)
   - [Conic Gradient](my-state-of-css-list/conic-gradient.md)
-  - [Scroll Snap Type](my-state-of-css-list/scroll-snap-type.md)
   - [Color Mix](my-state-of-css-list/color-mix.md)
-
+  - [Touch Action](my-state-of-css-list/touch-action.md)
 
 - Related properties #1
   - [Container](my-state-of-css-list/container.md)
@@ -28,3 +27,7 @@
 - Related properties #2
   - [Counter Increment](my-state-of-css-list/counter-increment.md)
   - [Counter Set](my-state-of-css-list/counter-set.md)
+
+- Related properties #3
+  - [Scroll Snap Type](my-state-of-css-list/scroll-snap-type.md)
+  - [Scroll Behaviour](my-state-of-css-list/scroll-behaviour.md)
