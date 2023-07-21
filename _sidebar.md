@@ -31,3 +31,4 @@
 - Related properties #3
   - [Scroll Snap Type](my-state-of-css-list/scroll-snap-type.md)
   - [Scroll Behaviour](my-state-of-css-list/scroll-behaviour.md)
+  - [Scroll Gutter](my-state-of-css-list/scrollbar-gutter.md)
