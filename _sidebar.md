@@ -14,27 +14,29 @@
   - [Conic Gradient](my-state-of-css-list/conic-gradient.md)
   - [Color Mix](my-state-of-css-list/color-mix.md)
   - [Touch Action](my-state-of-css-list/touch-action.md)
-  
 
-- Related properties #1
+- Related properties #1 - CSS container
+
   - [Container](my-state-of-css-list/container.md)
   - [CSS containment](my-state-of-css-list/css-containment.md)
   - [Content Visibility](my-state-of-css-list/content-visibility.md)
   - [New CSS Media Query Range Syntax](my-state-of-css-list/new-mediaquery-range.md)
-
   - [Intrinsic Size](my-state-of-css-list/intrinsic-size.md)
   - [Contain Intrinsic Size](my-state-of-css-list/contain-intrinsic-size.md)
 
-- Related properties #2
+- Related properties #2 - Counter
+
   - [Counter Increment](my-state-of-css-list/counter-increment.md)
   - [Counter Set](my-state-of-css-list/counter-set.md)
 
-- Related properties #3
+- Related properties #3 - Scroll
+
   - [Scroll Snap Type](my-state-of-css-list/scroll-snap-type.md)
   - [Scroll Behaviour](my-state-of-css-list/scroll-behaviour.md)
   - [Scroll Gutter](my-state-of-css-list/scrollbar-gutter.md)
 
-- Related properties #4
+- Related properties #4 - Text
+
   - [Line Clamp](my-state-of-css-list/line-clamp.md)
   - [Text Wrap](my-state-of-css-list/text-wrap.md)
   - [Font Palette](my-state-of-css-list/font-palette.md)
