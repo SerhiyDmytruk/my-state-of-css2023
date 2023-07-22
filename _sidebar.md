@@ -14,6 +14,8 @@
   - [Conic Gradient](my-state-of-css-list/conic-gradient.md)
   - [Color Mix](my-state-of-css-list/color-mix.md)
   - [Touch Action](my-state-of-css-list/touch-action.md)
+  - [Line Clamp](my-state-of-css-list/line-clamp.md)
+  
 
 - Related properties #1
   - [Container](my-state-of-css-list/container.md)
