@@ -14,7 +14,6 @@
   - [Conic Gradient](my-state-of-css-list/conic-gradient.md)
   - [Color Mix](my-state-of-css-list/color-mix.md)
   - [Touch Action](my-state-of-css-list/touch-action.md)
-  - [Line Clamp](my-state-of-css-list/line-clamp.md)
   
 
 - Related properties #1
@@ -34,3 +33,9 @@
   - [Scroll Snap Type](my-state-of-css-list/scroll-snap-type.md)
   - [Scroll Behaviour](my-state-of-css-list/scroll-behaviour.md)
   - [Scroll Gutter](my-state-of-css-list/scrollbar-gutter.md)
+
+- Related properties #4
+  - [Line Clamp](my-state-of-css-list/line-clamp.md)
+  - [Text Wrap](my-state-of-css-list/text-wrap.md)
+  - [Font Palette](my-state-of-css-list/font-palette.md)
+  - [Font Palette Values](my-state-of-css-list/font-palette-values.md)
