@@ -41,3 +41,9 @@
   - [Text Wrap](my-state-of-css-list/text-wrap.md)
   - [Font Palette](my-state-of-css-list/font-palette.md)
   - [Font Palette Values](my-state-of-css-list/font-palette-values.md)
+
+- Related properties #3 - Prefers Media Query
+  - [Prefers Reduced Motion](my-state-of-css-list/prefers-reduced-motion.md)
+  - [Prefers Color Sheme](my-state-of-css-list/prefers-color-scheme.md)
+  - [Prefers Reduced Data](my-state-of-css-list/prefers-reduced-data.md)
+  - [Prefers Contrast](my-state-of-css-list/prefers-contrast.md)
