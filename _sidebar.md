@@ -14,6 +14,7 @@
   - [Conic Gradient](my-state-of-css-list/conic-gradient.md)
   - [Color Mix](my-state-of-css-list/color-mix.md)
   - [Touch Action](my-state-of-css-list/touch-action.md)
+  - [Focus Visible](my-state-of-css-list/focus-visible.md)
 
 - Related properties #1 - CSS container
 
@@ -42,8 +43,10 @@
   - [Font Palette](my-state-of-css-list/font-palette.md)
   - [Font Palette Values](my-state-of-css-list/font-palette-values.md)
 
-- Related properties #3 - Prefers Media Query
+- Related properties #5 - Prefers Media Query
+
   - [Prefers Reduced Motion](my-state-of-css-list/prefers-reduced-motion.md)
   - [Prefers Color Sheme](my-state-of-css-list/prefers-color-scheme.md)
   - [Prefers Reduced Data](my-state-of-css-list/prefers-reduced-data.md)
   - [Prefers Contrast](my-state-of-css-list/prefers-contrast.md)
+  - [Forsed Colors](my-state-of-css-list/forced-colors.md)
