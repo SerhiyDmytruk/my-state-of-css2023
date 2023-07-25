@@ -24,6 +24,9 @@
   - [New CSS Media Query Range Syntax](my-state-of-css-list/new-mediaquery-range.md)
   - [Intrinsic Size](my-state-of-css-list/intrinsic-size.md)
   - [Contain Intrinsic Size](my-state-of-css-list/contain-intrinsic-size.md)
+  - [CSS rule @supports](my-state-of-css-list/css-rule-supports.md)
+  - [CSS Comparison Functions clamp(), max() and min()](my-state-of-css-list/comparison-function.md)
+  - [CSS rule @property](my-state-of-css-list/css-rule-property.md)
 
 - Related properties #2 - Counter
 
@@ -50,4 +53,3 @@
   - [Prefers Reduced Data](my-state-of-css-list/prefers-reduced-data.md)
   - [Prefers Contrast](my-state-of-css-list/prefers-contrast.md)
   - [Forsed Colors](my-state-of-css-list/forced-colors.md)
-  - [CSS rule @supports](my-state-of-css-list/css-rule-supports.md)
