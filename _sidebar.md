@@ -50,3 +50,4 @@
   - [Prefers Reduced Data](my-state-of-css-list/prefers-reduced-data.md)
   - [Prefers Contrast](my-state-of-css-list/prefers-contrast.md)
   - [Forsed Colors](my-state-of-css-list/forced-colors.md)
+  - [CSS rule @supports](my-state-of-css-list/css-rule-supports.md)
