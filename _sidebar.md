@@ -24,9 +24,10 @@
   - [New CSS Media Query Range Syntax](my-state-of-css-list/new-mediaquery-range.md)
   - [Intrinsic Size](my-state-of-css-list/intrinsic-size.md)
   - [Contain Intrinsic Size](my-state-of-css-list/contain-intrinsic-size.md)
-  - [CSS rule @supports](my-state-of-css-list/css-rule-supports.md)
   - [CSS Comparison Functions clamp(), max() and min()](my-state-of-css-list/comparison-function.md)
-  - [CSS rule @property](my-state-of-css-list/css-rule-property.md)
+
+  - [CSS rule @supports](my-state-of-css-list/css-rule-supports.md)
+  - [CSS rule @layer](my-state-of-css-list/layer.md)
 
 - Related properties #2 - Counter
 
@@ -53,3 +54,12 @@
   - [Prefers Reduced Data](my-state-of-css-list/prefers-reduced-data.md)
   - [Prefers Contrast](my-state-of-css-list/prefers-contrast.md)
   - [Forsed Colors](my-state-of-css-list/forced-colors.md)
+
+- Related properties #6 - Pseudo -element & -class
+
+- [Pseudo-element ::marker](my-state-of-css-list/marker.md)
+- [Pseudo-class :has()](my-state-of-css-list/has.md)
+- [Pseudo-class :is()](my-state-of-css-list/is.md)
+- [Pseudo-class :where()](my-state-of-css-list/has.md)
+- [Pseudo-element ::slotted()](my-state-of-css-list/slotted.md)
+- [Pseudo-class :host()](my-state-of-css-list/has.md)
