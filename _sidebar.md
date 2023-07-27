@@ -60,6 +60,6 @@
 - [Pseudo-element ::marker](my-state-of-css-list/marker.md)
 - [Pseudo-class :has()](my-state-of-css-list/has.md)
 - [Pseudo-class :is()](my-state-of-css-list/is.md)
-- [Pseudo-class :where()](my-state-of-css-list/has.md)
+- [Pseudo-class :where()](my-state-of-css-list/where.md)
 - [Pseudo-element ::slotted()](my-state-of-css-list/slotted.md)
 - [Pseudo-class :host()](my-state-of-css-list/has.md)
