@@ -16,6 +16,7 @@
   - [Touch Action](my-state-of-css-list/touch-action.md)
   - [Focus Visible](my-state-of-css-list/focus-visible.md)
   - [Image set](my-state-of-css-list/image-set.md)
+  - [CSS nesting](my-state-of-css-list/css-nesting.md)
 
 - Related properties #1 - CSS container
 
@@ -64,3 +65,6 @@
   - [Pseudo-class :where()](my-state-of-css-list/where.md)
   - [Pseudo-element ::slotted()](my-state-of-css-list/slotted.md)
   - [Pseudo-class :host()](my-state-of-css-list/host.md)
+
+
+- Related properties #6 - framework or library
