@@ -3,6 +3,8 @@
 > The `@layer` CSS at-rule is used to declare a cascade layer and can also be used to define the order of precedence in case of multiple cascade layers.
 
 
+![Cascade Layers](https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/09/css-cascade-cascade-layers-champ-bramus-1120x630-1.png?resize=1000%2C563&ssl=1)
+
 ### Code example
 
 ```
